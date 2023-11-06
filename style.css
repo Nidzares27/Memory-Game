@@ -1,0 +1,37 @@
+body {
+  margin: 10px;
+}
+div {
+  margin: 10px;
+}
+
+.leftPart {
+  float: left;
+}
+.rightPart {
+  float: left;
+}
+.container {
+  width: fit-content;
+}
+table,
+tr,
+td {
+  border-style: double;
+}
+table {
+  float: left;
+}
+label {
+  margin-right: 15px;
+}
+img {
+  height: 100px;
+  width: 100px;
+}
+.back {
+  background-color: purple;
+}
+.faceDown {
+  opacity: 0;
+}
